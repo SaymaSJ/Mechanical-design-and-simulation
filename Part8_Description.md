@@ -61,6 +61,27 @@ This part serves as a **structural connector/bracket** designed to integrate mul
 
 ---
 
+## FEA Analysis
+
+### Finite Element Analysis (FEA) - Part .8 Study
+
+#### Analysis Objectives
+The FEA study was conducted to validate structural integrity and stress distribution under operational loads.
+
+#### FEA Screenshots
+
+**Screenshot 1 - Analysis Overview:**
+![Slide1 FEA Analysis](https://github.com/SaymaSJ/Autodesk_Inventor_design/blob/main/Slide1.JPG?raw=true)
+
+**Screenshot 2 - Detailed Analysis Results:**
+![Slide2 FEA Analysis](https://github.com/SaymaSJ/Autodesk_Inventor_design/blob/main/Slide2.JPG?raw=true)
+
+#### FEA Video Documentation
+- **Video 1:** [part8_video1.wmv](https://github.com/SaymaSJ/Autodesk_Inventor_design/blob/main/part8_video1.wmv)
+- **Video 2:** [part8_video2.avi](https://github.com/SaymaSJ/Autodesk_Inventor_design/blob/main/part8_video2.avi)
+
+---
+
 ## Assembly Integration
 
 ### Expected Interfaces
@@ -84,6 +105,7 @@ This part is excellent for learning because it demonstrates:
 ✓ **Manufacturing Awareness** - Welded design shows DFM (Design for Manufacturing) thinking  
 ✓ **Assembly Logic** - Multiple features show intentional interface design  
 ✓ **CAD Modeling** - Complex enough to practice advanced feature creation  
+✓ **FEA Validation** - Includes structural analysis and validation study
 
 ### Learning Objectives
 1. Understanding cylindrical feature creation and dimensioning
@@ -91,6 +113,7 @@ This part is excellent for learning because it demonstrates:
 3. Material property implications on design
 4. Assembly-driven design thinking
 5. STEP file format and CAD data translation
+6. FEA simulation and stress analysis interpretation
 
 ---
 
@@ -99,5 +122,5 @@ This part is excellent for learning because it demonstrates:
 |---------|------|--------|---------|
 | 1.0 | 2026-04-05 | LENOVO | Initial design creation |
 | 1.1 | 2026-06-04 | SaymaSJ | Documentation & practice notes |
-
+| 1.2 | 2026-06-04 | SaymaSJ | Added FEA analysis screenshots and videos |
 
