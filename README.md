@@ -11,3 +11,5 @@ Projects:
 - Gearbox Design
 - Mechanism Design
 - FEA Simulations
+-  Structural Analysis Project
+-   usion 360 Product Design
